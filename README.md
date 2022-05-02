@@ -1,7 +1,5 @@
 # Interfaces_Github
 
-<img src='./assets/Intro_GIT.png'>
-
 ## Introducción a Git
 
 Git nos ayudará a manejar las versiones de estados sobre nuestros archivos. ¿A que se refiere estados?. ¿Recuerdas lo que dicen de TesisFinal y luego es TesisFinal2 y Después es TesisFinalFinal? lo que te ayuda git es a trabajar esas versiones que vas manejando. Ahora imaginate que ese archivo no solo lo editas tu, si no más personas, entonces para poder ver los cambios que se realicen, git te permite visualizar lo que ha subido cada quien. También puedes saltar en el tiempo, volviendo a un estado anterior y empezando desde ahí. 
