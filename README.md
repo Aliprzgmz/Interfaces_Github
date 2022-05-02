@@ -25,12 +25,12 @@ Cuando inicias la terminal, está se sitúa en un punto específico de tu comput
 En Windows nos sale la ruta donde estamos posicionados:
 
 ```Bash
-C:\User\Daniel>
+C:\User\alipzgz>
 ```
 
 Pero en otros sistemas solo nos aparece el nombre y computadora
 ```Bash
-Daniel@Mycomputadora ~ %
+alipzgz@DESKTOP-0LCS7QL
 ```
 
 Para visualizar en donde te encuentras puedes utilizar el siguiente comando.
